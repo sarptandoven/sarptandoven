@@ -12,9 +12,3 @@ Check out my portfolio projects and experience to learn more about me!
 - :email: sarptandoven@gmail.com
 
 <br/>
-
-### My stats
-
-<div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sarptandoven&show_icons=true&theme=transparent"/>
-</div>
